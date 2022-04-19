@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"RegisteredBookTest::isMatching":4,"RegisteredBookTest::testExpectBarActualBaz":3},"times":{"Warning":0.004,"RegisteredBookTest::isMatching":0.005,"RegisteredBookTest::testExpectFooActualFoo":0.004,"RegisteredBookTest::testExpectBarActualBaz":0.001}}
